@@ -1,0 +1,6 @@
+.vscode
+workbench-api/node_modules
+workbench-api/npm-debug.log
+workbench-api/.gitignore
+workbench-api/.editorconfig
+workbench-api/log
